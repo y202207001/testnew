@@ -1,4 +1,4 @@
-total 57
+dastotal 57
 drwxr-xr-x 1 문건우 197609     0 Apr 17 11:10 ./
 drwxr-xr-x 1 문건우 197609     0 Apr 17 10:47 ../
 drwxr-xr-x 1 문건우 197609     0 Apr 17 10:47 .git/
